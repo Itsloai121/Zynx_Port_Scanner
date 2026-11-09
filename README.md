@@ -139,10 +139,6 @@ Range: 8000-8100
 
 Only scan systems for which you have authorization. Keep scans within the scope approved by the system owner, use conservative settings on shared or production networks, and follow applicable laws and organizational policies.
 
-## 📜 License
-
-Choose a license before publishing this repository (for example, MIT) and add the corresponding `LICENSE` file. Do not claim a license until you have added one.
-
 ---
 
 <div align="center">
